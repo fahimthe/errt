@@ -1,0 +1,545 @@
+@media (min-width: 320px) and (max-width: 479.98px){  
+/* nav part */
+    #header .nav .navbar_item .nav_end a {
+        font-size: 13px;
+    }
+    #header .navbar .nav_middle .nav_list ul li {
+        display: list-item;
+        padding: 10px 0px;
+    }
+    .navbar-collapse {
+          background-color: rgb(209, 206, 206);
+          padding: 30px 0;
+          text-align: start !important;
+    }
+    #header .navbar .nav_middle {
+        padding-left: 10px;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent;
+        border-color: transparent !important;
+    }
+    #header .navbar .nav_end a {
+        padding: 10px 15px;
+        background-color: #1b1dc7;
+        font-size: 15px;
+    }
+    #header .navbar .nav_end {
+        margin-top: 20px;
+    }
+
+    #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+        width: 85%;
+
+    }
+    #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+        width: 85%;
+    }
+/* banner part  */
+    .banner_inner {
+        padding:20px 0 !important;
+    }
+    .banner .banner_slider .banner_inner a {
+        padding: 15px 40px;
+        font-size: 15px;
+    }
+    .banner .banner_slider .banner_inner h4 {
+        font-size: 24px;
+    }
+    .banner .banner_slider .banner_inner h5 {
+        font-size: 20px;
+    }
+
+/* card start */
+.cards .card_main .card_inner p {
+	display: none;
+}
+.margin{
+    margin-top: 20px;
+}
+.cards .card_main .card_inner .card_in h5 {
+	font-size: 16px;
+}
+.cards .card_main .card_inner .card_in {
+	padding-bottom: 20px;
+}
+.cards .card_main .card_inner a {
+	font-size: 14px;
+}
+
+
+/* service part */
+.service .service_title h5::after {
+    display: none;
+    }
+.service {
+	padding-bottom: 30px;
+}
+.cards {
+	padding: 50px 0;
+}
+/* team */
+.team .team_main {
+	width: 100%;
+}
+
+.margin-60{
+    margin-top: 60px;
+}
+
+.team .team_main h4 {
+	font-size: 24px;
+}
+.team .team_main a {
+	font-size: 16px;
+}
+.team {
+	padding: 50px 0;
+}
+.mobile {
+	padding: 30px 0;
+}
+.mobile_right {
+	text-align: center;
+}
+/* sticker */
+.sticker .sticker_button ul li{
+    margin: 10px 0;
+}
+.sticker .stisker_item img {
+	width: 100%;
+}
+.sticker .sticker_button ul li span {
+	font-size: 13px;
+}
+.sticker {
+	padding: 20px 0;
+}
+
+
+/* footer part start */
+.footer .footer_one img {
+	width: 100%;
+
+}
+.footer .icons {
+	padding: 30px 0;
+}
+/* loan */
+.apply_form {
+	padding: 40px 0;
+}
+.apply_form .apply_main_form .form_body .input_title {
+	justify-content: flex-start;
+
+}
+}
+@media (min-width: 480px) and (max-width: 575.98px){  
+    /* nav part */
+        #header .nav .navbar_item .nav_end a {
+            font-size: 13px;
+        }
+        #header .navbar .nav_middle .nav_list ul li {
+            display: list-item;
+            padding: 10px 0px;
+        }
+        .navbar-collapse {
+              background-color: rgb(209, 206, 206);
+              padding: 30px 0;
+              text-align: start !important;
+        }
+        #header .navbar .nav_middle {
+            padding-left: 10px;
+        }
+        .navbar-light .navbar-toggler {
+            color: transparent;
+            border-color: transparent !important;
+        }
+        #header .navbar .nav_end a {
+            padding: 10px 15px;
+            background-color: #1b1dc7;
+            font-size: 15px;
+        }
+        #header .navbar .nav_end {
+            margin-top: 20px;
+        }
+    
+        #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+            width: 85%;
+    
+        }
+        #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+            width: 85%;
+        }
+    /* banner part  */
+        .banner_inner {
+            padding:20px 0 !important;
+        }
+        .banner .banner_slider .banner_inner a {
+            padding: 15px 40px;
+            font-size: 15px;
+        }
+        .banner .banner_slider .banner_inner h4 {
+            font-size: 24px;
+        }
+        .banner .banner_slider .banner_inner h5 {
+            font-size: 20px;
+        }
+    
+    /* card start */
+    .cards .card_main .card_inner p {
+        display: none;
+    }
+    .margin{
+        margin-top: 20px;
+    }
+    .cards .card_main .card_inner .card_in h5 {
+        font-size: 16px;
+    }
+    .cards .card_main .card_inner .card_in {
+        padding-bottom: 20px;
+    }
+    .cards .card_main .card_inner a {
+        font-size: 14px;
+    }
+    
+    
+    /* service part */
+    .service .service_title h5::after {
+        display: none;
+        }
+    .service {
+        padding-bottom: 30px;
+    }
+    .cards {
+        padding: 50px 0;
+    }
+    /* team */
+    .team .team_main {
+        width: 100%;
+    }
+    
+    .margin-60{
+        margin-top: 60px;
+    }
+    
+    .team .team_main h4 {
+        font-size: 24px;
+    }
+    .team .team_main a {
+        font-size: 16px;
+    }
+    .team {
+        padding: 50px 0;
+    }
+    .mobile {
+        padding: 30px 0;
+    }
+    .mobile_right {
+        text-align: center;
+    }
+    /* sticker */
+    .sticker .sticker_button ul li{
+        margin: 10px 0;
+    }
+    .sticker .stisker_item img {
+        width: 100%;
+    }
+    .sticker .sticker_button ul li span {
+        font-size: 13px;
+    }
+    .sticker {
+        padding: 20px 0;
+    }
+    
+    
+    /* footer part start */
+    .footer .footer_one img {
+        width: 100%;
+    
+    }
+    .footer .icons {
+        padding: 30px 0;
+    }
+    /* loan */
+    .apply_form {
+        padding: 40px 0;
+    }
+    .apply_form .apply_main_form .form_body .input_title {
+        justify-content: flex-start;
+    
+    }
+    }
+ @media (min-width: 576px) and (max-width: 767.98px){  
+        /* nav part */
+            #header .nav .navbar_item .nav_end a {
+                font-size: 13px;
+            }
+            #header .navbar .nav_middle .nav_list ul li {
+                display: list-item;
+                padding: 10px 0px;
+            }
+            .navbar-collapse {
+                  background-color: rgb(209, 206, 206);
+                  padding: 30px 0;
+                  text-align: start !important;
+            }
+            #header .navbar .nav_middle {
+                padding-left: 10px;
+            }
+            .navbar-light .navbar-toggler {
+                color: transparent;
+                border-color: transparent !important;
+            }
+            #header .navbar .nav_end a {
+                padding: 10px 15px;
+                background-color: #1b1dc7;
+                font-size: 15px;
+            }
+            #header .navbar .nav_end {
+                margin-top: 20px;
+            }
+        
+            #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+                width: 85%;
+        
+            }
+            #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+                width: 85%;
+            }
+        /* banner part  */
+            .banner_inner {
+                padding:20px 0 !important;
+            }
+            .banner .banner_slider .banner_inner a {
+                padding: 15px 40px;
+                font-size: 15px;
+            }
+            .banner .banner_slider .banner_inner h4 {
+                font-size: 24px;
+            }
+            .banner .banner_slider .banner_inner h5 {
+                font-size: 20px;
+            }
+        
+        /* card start */
+        .cards .card_main .card_inner p {
+            display: none;
+        }
+        .margin{
+            margin-top: 20px;
+        }
+        .cards .card_main .card_inner .card_in h5 {
+            font-size: 16px;
+        }
+        .cards .card_main .card_inner .card_in {
+            padding-bottom: 20px;
+        }
+        .cards .card_main .card_inner a {
+            font-size: 14px;
+        }
+        
+        
+        /* service part */
+        .service .service_title h5::after {
+            display: none;
+            }
+        .service {
+            padding-bottom: 30px;
+        }
+        .cards {
+            padding: 50px 0;
+        }
+        /* team */
+        .team .team_main {
+            width: 100%;
+        }
+        
+        .margin-60{
+            margin-top: 60px;
+        }
+        
+        .team .team_main h4 {
+            font-size: 24px;
+        }
+        .team .team_main a {
+            font-size: 16px;
+        }
+        .team {
+            padding: 50px 0;
+        }
+        .mobile {
+            padding: 30px 0;
+        }
+        .mobile_right {
+            text-align: center;
+        }
+        /* sticker */
+        .sticker .sticker_button ul li{
+            margin: 10px 0;
+        }
+        .sticker .stisker_item img {
+            width: 100%;
+        }
+        .sticker .sticker_button ul li span {
+            font-size: 13px;
+        }
+        .sticker {
+            padding: 20px 0;
+        }
+        
+        
+        /* footer part start */
+        .footer .footer_one img {
+            width: 100%;
+        
+        }
+        .footer .icons {
+            padding: 30px 0;
+        }
+        /* loan */
+        .apply_form {
+            padding: 40px 0;
+        }
+        .apply_form .apply_main_form .form_body .input_title {
+            justify-content: flex-start;
+        
+        }
+        }
+
+@media (min-width: 768px) and (max-width: 991.98px){  
+            /* nav part */
+                #header .nav .navbar_item .nav_end a {
+                    font-size: 13px;
+                }
+                #header .navbar .nav_middle .nav_list ul li {
+                    display: list-item;
+                    padding: 10px 0px;
+                }
+                .navbar-collapse {
+                      background-color: rgb(209, 206, 206);
+                      padding: 30px 0;
+                      text-align: start !important;
+                }
+                #header .navbar .nav_middle {
+                    padding-left: 10px;
+                }
+                .navbar-light .navbar-toggler {
+                    color: transparent;
+                    border-color: transparent !important;
+                }
+                #header .navbar .nav_end a {
+                    padding: 10px 15px;
+                    background-color: #1b1dc7;
+                    font-size: 15px;
+                }
+                #header .navbar .nav_end {
+                    margin-top: 20px;
+                }
+            
+                #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+                    width: 85%;
+            
+                }
+                #modal_1 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+                    width: 85%;
+                }
+            /* banner part  */
+                .banner_inner {
+                    padding:20px 0 !important;
+                }
+                .banner .banner_slider .banner_inner a {
+                    padding: 15px 40px;
+                    font-size: 15px;
+                }
+                .banner .banner_slider .banner_inner h4 {
+                    font-size: 24px;
+                }
+                .banner .banner_slider .banner_inner h5 {
+                    font-size: 20px;
+                }
+            
+            /* card start */
+            .cards .card_main .card_inner p {
+                display: none;
+            }
+            .margin{
+                margin-top: 20px;
+            }
+            .cards .card_main .card_inner .card_in h5 {
+                font-size: 16px;
+            }
+            .cards .card_main .card_inner .card_in {
+                padding-bottom: 20px;
+            }
+            .cards .card_main .card_inner a {
+                font-size: 14px;
+            }
+            
+            
+            /* service part */
+            .service .service_title h5::after {
+                display: none;
+                }
+            .service {
+                padding-bottom: 30px;
+            }
+            .cards {
+                padding: 50px 0;
+            }
+            /* team */
+            .team .team_main {
+                width: 100%;
+            }
+            
+            .margin-60{
+                margin-top: 60px;
+            }
+            
+            .team .team_main h4 {
+                font-size: 24px;
+            }
+            .team .team_main a {
+                font-size: 16px;
+            }
+            .team {
+                padding: 50px 0;
+            }
+            .mobile {
+                padding: 30px 0;
+            }
+            .mobile_right {
+                text-align: center;
+            }
+            /* sticker */
+            .sticker .sticker_button ul li{
+                margin: 10px 0;
+            }
+            .sticker .stisker_item img {
+                width: 100%;
+            }
+            .sticker .sticker_button ul li span {
+                font-size: 13px;
+            }
+            .sticker {
+                padding: 20px 0;
+            }
+            
+            
+            /* footer part start */
+            .footer .footer_one img {
+                width: 100%;
+            
+            }
+            .footer .icons {
+                padding: 30px 0;
+            }
+            /* loan */
+            .apply_form {
+                padding: 40px 0;
+            }
+            .apply_form .apply_main_form .form_body .input_title {
+                justify-content: flex-start;
+            
+            }
+            }
